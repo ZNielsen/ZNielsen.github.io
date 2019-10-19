@@ -4,7 +4,7 @@ layout: post
 categories: stickers
 ---
 
-![Apple Sticker](sticker_apple.jpg)
+![Apple Sticker](images/sticker_apple.jpg)
 
 ### Description
 The Apple logo.

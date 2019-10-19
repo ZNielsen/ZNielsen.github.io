@@ -4,7 +4,7 @@ layout: post
 categories: stickers
 ---
 
-![Sasquatch Sticker](sticker_sasquatch.jpg)
+![Sasquatch Sticker](images/sticker_sasquatch.jpg)
 
 ### Description
 Sticker outline of a sasquatch showing a picture of stars, the moon,
