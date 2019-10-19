@@ -1,10 +1,10 @@
 ---
-title: "Sticker: Sasquatch"
+name: "Sasquatch"
 layout: post
 categories: stickers
 ---
 
-![Sasquatch Sticker](../media/sticker_sasquatch.jpg)
+![Sasquatch Sticker](sticker_sasquatch.jpg)
 
 ### Description
 Sticker outline of a sasquatch showing a picture of stars, the moon,
@@ -17,8 +17,3 @@ this sticker (she said she didn't feel like saving it for Christmas).
 ### Stickers Covered
 - [Cafe Fiore](http://www.caffefiore.com/) big red sticker
 
-{% for post in collections.posts.pages %}
-#### {{post.title}}
-
-[{{ post.title }}]({{ post.permalink }})
-{% endfor %}

@@ -3,7 +3,7 @@ layout: post
 title: "A Sticker Blog"
 date: 2019-10-12 15:48:42 -0700
 ---
-## I'm Writing A Sticker Blog
+## I'm Writing A [Sticker Blog](/blog/stickers)
 
 I have been sticking stickers on my water bottle for a while now, and they are 
 starting to cover each other up!  Documenting each sticker as I get them will 
