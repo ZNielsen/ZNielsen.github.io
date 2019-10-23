@@ -12,5 +12,10 @@ The Apple logo.
 I bought my first Apple product: the iPhone 11.  So far I'm really liking it.
 
 ### Stickers Covered
-TODO
+- Yetti
+- PCT (large)
+- PCT (small)
+- Meh...
+- Ferment Brewing
+- Pips
 
