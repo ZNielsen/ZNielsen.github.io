@@ -32,7 +32,7 @@ permalink: /:categories/:year/:month/:day/:title/
 # the base hostname & protocol for your site, e.g. http://example.com
 url: "http://zachn.me" 
 github_username:  ZNielsen
-collections_dir: collections
+collections_dir: pub
 collections:
   stickers:
     output: true
