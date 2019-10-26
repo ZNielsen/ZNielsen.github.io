@@ -1,8 +1,8 @@
 ---
-Name: Lady Blackbird Session 2
+name: Lady Blackbird Session 2
 layout: post
-categories: [rpg]
-playdate: 2019.10.22
+playdate: 2019.10.
+tags: [Lady Blackbird, rpg]
 ---
 
 # Lady Blackbird Session 2
