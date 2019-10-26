@@ -10,6 +10,7 @@ For the longest time I did not want to sully anything I owned by slapping sticke
 
 TODO: sort by date, not name
 
-{% for sticker in site.stickers %}
+{% assign items = site.stickers | sort: 'date' %}
+{% for sticker in items %}
 - [Sticker: {{ sticker.name }}]({{ sticker.url }})
 {% endfor %}

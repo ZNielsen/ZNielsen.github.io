@@ -10,7 +10,6 @@ This is my collection of quick posts.
 
 A catalog of the stickers I have come across.
 
-### [Movie Blog](/blog/movies/)
+### [RPG Log Blog](/blog/rpgs/)
 
-If I see a movie that I want to write up, I'll put it down here.  Also available is my [letterboxd](https://letterboxd.com/zachn/)
-
+I try to write up notes about every session I play.
