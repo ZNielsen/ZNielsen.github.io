@@ -1,7 +1,7 @@
 ---
 name: Lady Blackbird Session 2
 layout: post
-playdate:
+playdate: 2019.10.29
 tags: [Lady Blackbird, rpg]
 ---
 
@@ -21,3 +21,6 @@ Imperials will appear to attempt to capture The Owl.  In an extended fight, a sk
 - Sky Squid attack
 - Pirates attack
   - Fight makes it harder to get to Flint
+
+## Session
+
