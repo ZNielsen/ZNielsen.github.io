@@ -11,7 +11,7 @@ I have [a github](https://github.com/ZNielsen) where I do some things that are o
 ### Technologies I love
 - Unix
 - vim
-- ect.. 
+- ect..
 
 ### Not a robot...
 I love non-tech things too!
@@ -25,5 +25,6 @@ I love non-tech things too!
   - San Fransico
   - New York
   - Amsterdam
+  - Shanghai
 
 Views or opinions expressed are solely my own and do not express the views or opinions of my employer.
