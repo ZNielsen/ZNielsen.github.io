@@ -69,10 +69,50 @@ margaritas...
 
 #### Boxing Cat
 The first micro brewing place we attended, and one of the oldest in Shanghai
-reaching back to 2008.
-- Food: **Grittle Mac+Cheese**
-- Beer: **Breast Wishes Milk Stout** and **Sucker Punch Pale Ale**, along with a
-  shared taster flight.
+reaching back to 2008.  The glasses here are great; narrower ridged bottom
+leading to a bulbous top.  They reminded me of boxing gloves.  Not sure if
+that was by design, or if I'm reading into the theme of the place.
+- Food: **Grittle Mac & Cheese** - Very good, very creamy al dente noodles.
+- Beer: **Breast Wishes Milk Stout** on nitro and **Sucker Punch Pale Ale**,
+  along with a shared taster flight.
 
-#### The Brew at Kerrys Hotel
-#### Donghu
+  The milk stout was creamy like a Guinness, but with a different flavor
+  profile that I actually liked a lot better.
+
+  Sucker punch pale ale was richer than I was expecting, almost like a red.  Had
+  a great after taste that stayed with you for a while.
+
+  Taster consisted of:
+  - Sucker Punch Pale Ale - Really great pale ale with lasting aftertaste.
+  - TKO IPA - A bit more fruity than your average IPA, but not crazy.
+  - Money Shot Cream Ale - I want to love cream ales because they sound good,
+    but I just don't.  I find them to bland, and this one was no exception.
+  - King Louie Imperial Stout - Very complex stout.  Fantastic as a taster, but
+    I passed on the full glass because there was so much going on.
+  - Spiced Pumpkin Ale - Very pumpkin.  One in our group loved this one.  Good
+    as a novelty/seasonal drink, but only for a bit of fun.
+  - _One more I can't rember, but I think it was a pilsner_
+
+#### The Brew at Kerry Hotel
+Coming off of Boxing Cat, we were a bit disappointed by these beers
+- Food: **Spicy Seafood Linguini** -
+- Beer: **The House Amber** -
+    - Dry cider
+    - Pilsenr
+    - Another pilseer
+    - cloudy hef-style
+    - Fruity IPA
+    - House Amber
+    - House Dark
+
+#### The Flying Fox
+- Food: None
+- Beer: **Guinness**
+
+#### Shanghai Brewery - Donghu
+- Food: **Spicy Burger** - I learned from the Blue Frog and ordered my meat well
+  done.  The burger came rare (which is actually what I prefer in the States).
+  At least I didn't have to worry about poisoning this time.
+- Beer: **Unfiltered IPA** - Really good, not overly hoppy IPA.  I'm a sucker
+  for cloudy beers, so I was all over this one.  Happy hour was
+  2 for 1, so we all doubled up on drinks.
