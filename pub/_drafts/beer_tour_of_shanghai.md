@@ -12,7 +12,7 @@ of Portland.  Portland brewers have been moving to Shanghai to set up shop, and
 the influence shows.  Here is the list of restaurant we went to, and the
 food/drink I had at each place.
 
-#### Blue Frog
+#### Friday - Blue Frog
 This was day zero in Shanghai - jet lagged and tired.
 - Food: **Burger** - In China you order medium well and you end up with something
   redder than you could legally be served in the states.  I'll be ordering well
@@ -21,7 +21,7 @@ This was day zero in Shanghai - jet lagged and tired.
   in a good way.  This was much closer to a sour.  Add that to the nausea I was
   feeling from lack of sleep, and this beer went almost entirely unfinished.
 
-#### Tiantai
+#### Saturday - Tiantai
 Day one, still quite tired and a bit nauseous.  Ended up at a Thai restaurant
 about a mile walk from the hotel.
 - Food: **Red Curry w/ Beef** - Quite good!  I went with the beef because the
@@ -31,7 +31,7 @@ about a mile walk from the hotel.
   the time, but went with the dark beer instead.  It was good, I just wasn't in
   the mood for dark.
 
-#### Disneyland
+#### Sunday - Disneyland
 This was my birthday and we had the day off work, so I treated myself to a trip
 to the Shanghai Disneyland.  It was a great day of wandering this smaller park.
 Park food wasn't notable, and no beer was had.
@@ -39,7 +39,7 @@ Park food wasn't notable, and no beer was had.
     - Lunch: **Noodles and Beef** à la Jack Sparrow.
     - Dinner: **Burger + Fries** à la The Avengers.
 
-#### Din Tai Fung
+#### Monday - Din Tai Fung
 Din Tai Fung has many locations, and just recently expanded to downtown
 Portland.  I have not been to that location, so I can't compare how the American
 versions hold up to the "authentic" ones, but this place was damn good.
@@ -54,7 +54,7 @@ versions hold up to the "authentic" ones, but this place was damn good.
   expecting, and I much prefer it to something like a PBR, but that may be a
   product of the environment as much as the beer.
 
-#### Pistolara's
+#### Tuesday - Pistolara's
 Taco Tuesday!  A Mexican restaurant within walking distance of the hotel.  This
 is a place of lore at Tektronix, and I have heard many stories about the
 margaritas...
@@ -67,7 +67,7 @@ margaritas...
   extremely tequila-forward for a frozen marg, and both of us were feeling
   pretty happy by the bottom of the pitcher.
 
-#### Boxing Cat
+#### Wednesday - Boxing Cat
 The first micro brewing place we attended, and one of the oldest in Shanghai
 reaching back to 2008.  The glasses here are great; narrower ridged bottom
 leading to a bulbous top.  They reminded me of boxing gloves.  Not sure if
@@ -93,7 +93,7 @@ that was by design, or if I'm reading into the theme of the place.
     as a novelty/seasonal drink, but only for a bit of fun.
   - _One more I can't rember, but I think it was a pilsner_
 
-#### The Brew at Kerry Hotel
+#### Thursday - The Brew at Kerry Hotel
 Coming off of Boxing Cat, we were a bit disappointed by these beers
 - Food: **Spicy Seafood Linguini** -
 - Beer: **The House Amber** -
@@ -105,14 +105,34 @@ Coming off of Boxing Cat, we were a bit disappointed by these beers
     - House Amber
     - House Dark
 
-#### The Flying Fox
+#### Friday - The Flying Fox
 - Food: None
 - Beer: **Guinness**
 
-#### Shanghai Brewery - Donghu
+#### Friday - Shanghai Brewery: Donghu
 - Food: **Spicy Burger** - I learned from the Blue Frog and ordered my meat well
   done.  The burger came rare (which is actually what I prefer in the States).
   At least I didn't have to worry about poisoning this time.
 - Beer: **Unfiltered IPA** - Really good, not overly hoppy IPA.  I'm a sucker
   for cloudy beers, so I was all over this one.  Happy hour was
   2 for 1, so we all doubled up on drinks.
+
+#### Saturday - Big Bamboo
+- Food: Lasagnia
+- Beer: Beast in the East Pale Ale
+
+#### Sunday - Chinese x4
+- Tsingto + White Wine
+
+#### Sunday - Karaoke Bar
+- Beer: White Paulener + Whiskey & Tea
+
+#### Monday - Pistolara's
+- Burrito
+- Mango then Strawberry marg
+
+#### Tuesday - Paulener
+- Venison stew - Very good!
+- Stien of Paulener Lager
+
+#### Wednesday
