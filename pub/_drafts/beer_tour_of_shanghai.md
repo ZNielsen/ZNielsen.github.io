@@ -12,7 +12,7 @@ of Portland.  Portland brewers have been moving to Shanghai to set up shop, and
 the influence shows.  Here is the list of restaurant we went to, and the
 food/drink I had at each place.
 
-#### Friday - Blue Frog
+## Friday - Blue Frog
 This was day zero in Shanghai - jet lagged and tired.
 - Food: **Burger** - In China you order medium well and you end up with something
   redder than you could legally be served in the states.  I'll be ordering well
@@ -21,7 +21,7 @@ This was day zero in Shanghai - jet lagged and tired.
   in a good way.  This was much closer to a sour.  Add that to the nausea I was
   feeling from lack of sleep, and this beer went almost entirely unfinished.
 
-#### Saturday - Tiantai
+## Saturday - Tiantai
 Day one, still quite tired and a bit nauseous.  Ended up at a Thai restaurant
 about a mile walk from the hotel.
 - Food: **Red Curry w/ Beef** - Quite good!  I went with the beef because the
@@ -31,7 +31,7 @@ about a mile walk from the hotel.
   the time, but went with the dark beer instead.  It was good, I just wasn't in
   the mood for dark.
 
-#### Sunday - Disneyland
+## Sunday - Disneyland
 This was my birthday and we had the day off work, so I treated myself to a trip
 to the Shanghai Disneyland.  It was a great day of wandering this smaller park.
 Park food wasn't notable, and no beer was had.
@@ -39,7 +39,7 @@ Park food wasn't notable, and no beer was had.
     - Lunch: **Noodles and Beef** à la Jack Sparrow.
     - Dinner: **Burger + Fries** à la The Avengers.
 
-#### Monday - Din Tai Fung
+## Monday - Din Tai Fung
 Din Tai Fung has many locations, and just recently expanded to downtown
 Portland.  I have not been to that location, so I can't compare how the American
 versions hold up to the "authentic" ones, but this place was damn good.
@@ -54,7 +54,7 @@ versions hold up to the "authentic" ones, but this place was damn good.
   expecting, and I much prefer it to something like a PBR, but that may be a
   product of the environment as much as the beer.
 
-#### Tuesday - Pistolara's
+## Tuesday - Pistolara's
 Taco Tuesday!  A Mexican restaurant within walking distance of the hotel.  This
 is a place of lore at Tektronix, and I have heard many stories about the
 margaritas...
@@ -67,7 +67,7 @@ margaritas...
   extremely tequila-forward for a frozen marg, and both of us were feeling
   pretty happy by the bottom of the pitcher.
 
-#### Wednesday - Boxing Cat
+## Wednesday - Boxing Cat
 The first micro brewing place we attended, and one of the oldest in Shanghai
 reaching back to 2008.  The glasses here are great; narrower ridged bottom
 leading to a bulbous top.  They reminded me of boxing gloves.  Not sure if
@@ -93,23 +93,30 @@ that was by design, or if I'm reading into the theme of the place.
     as a novelty/seasonal drink, but only for a bit of fun.
   - _One more I can't rember, but I think it was a pilsner_
 
-#### Thursday - The Brew at Kerry Hotel
-Coming off of Boxing Cat, we were a bit disappointed by these beers
+## Thursday - The Brew at Kerry Hotel
+Coming off of Boxing Cat, we were a bit disappointed by these beers.
 - Food: **Spicy Seafood Linguini** -
-- Beer: **The House Amber** -
-    - Dry cider
-    - Pilsenr
-    - Another pilseer
-    - cloudy hef-style
-    - Fruity IPA
-    - House Amber
-    - House Dark
+- Beer: **The House Amber** - Nothing super noteworthy about this beer.  We had
+  a taster flight that consisted of:
+    - Dry cider - Extreamly dry.  Almost tasted like a dry white wine.
+    - Pilsner
+    - Another pilsner - Both pilsners were too light for my tastes.
+    - cloudy hef-style - Pretty good, but again, a little light.  Super white in
+      color.
+    - Fruity IPA - A bit too fruity for me, but the others at my table liked it.
+    - House Amber - A nothing special amber.
+    - House Dark - A nothing special porter.
 
-#### Friday - The Flying Fox
+## Friday - The Flying Fox
+This was an Irish pub right across the street from our hotel.  We met here for
+a drink as we were waiting for our group to gather up.
 - Food: None
-- Beer: **Guinness**
+- Beer: **Guinness** - I forget how good a Guinness can be.
 
-#### Friday - Shanghai Brewery: Donghu
+## Friday - Shanghai Brewery: Donghu
+I lost track of where this was, as I was jammed in the back of a taxi.  This was
+a 'modern' club/bar, with a DJ and a small dance floor.  DJ favored '90s/'00s
+mixes that were really fun.
 - Food: **Spicy Burger** - I learned from the Blue Frog and ordered my meat well
   done.  The burger came rare (which is actually what I prefer in the States).
   At least I didn't have to worry about poisoning this time.
@@ -117,22 +124,45 @@ Coming off of Boxing Cat, we were a bit disappointed by these beers
   for cloudy beers, so I was all over this one.  Happy hour was
   2 for 1, so we all doubled up on drinks.
 
-#### Saturday - Big Bamboo
-- Food: Lasagnia
-- Beer: Beast in the East Pale Ale
+## Saturday - Big Bamboo
+Super casual dinner with just two of us.  We were pretty tired, so it was a low
+key evening.
+- Food: **Lasagnia** - Fine.  Would not get again.
+- Beer: **Beast in the East Pale Ale** - I also had a taster of the "No Pout
+  Stout" - extremely
+  rich, almost chalky texture.  Again, a stout that is a great taster but I
+  would not want a pint of.
 
-#### Sunday - Chinese x4
-- Tsingto + White Wine
+## Sunday - Chinese x4
+Over the weekend, we were out on a company trip.  The meal locations were picked
+for us, and they were all Chinese loctaions.  Most drinks were Sprite/Pepsi.
+Dinners had Tsingtou and "White Wine", which is a high proof rice-based alchohol.
+Tastes reminiciant of whiskey, but certainly wasn't whiskey.
+- Food: Chinese
+- Beer: **Tsingto + White Wine**
 
-#### Sunday - Karaoke Bar
-- Beer: White Paulener + Whiskey & Tea
+## Sunday - Karaoke Bar
+Sunday night we ended up at a karaoke bar for some late night drinking.  The
+whiskey was a whiskey/tea mix that was actually very good.
+- Beer: **White Paulener + Whiskey & Tea**
 
-#### Monday - Pistolara's
-- Burrito
-- Mango then Strawberry marg
+## Monday - Pistolara's
+We all were feeling something comfortable on Mondy, so we headed out for Mexican
+food.
+- Food: **Burrito**
+- Beer: No beer, **Mango then Strawberry marg**
 
-#### Tuesday - Paulener
-- Venison stew - Very good!
-- Stien of Paulener Lager
+## Tuesday - Paulener
+Tuesday we did a tour of the fake market, then headed down to the waterfront to
+the Paulener - a German pub.  Atmosphere was great.  Long tables, Christmas
+decorations up super early, music, ect.  We ended up all getting steins of
+lager which was quite good.
+- Food: **Venison stew** - Very good!  One of my favorite meals that I had on the trip.
+- Beer: **Paulener Lager**
 
-#### Wednesday
+## Wednesday - Hutaoli
+Our last day in Shanghai.  We went out for a goodbye dinner, capping the trip
+with a solid asortment of Chinese food.
+- Food: Various Chinese food
+- Beer: **Corona** - Not a huge beer selection here, it was either Corona or
+  Budweiser.
