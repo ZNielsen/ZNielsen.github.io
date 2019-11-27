@@ -9,6 +9,4 @@ name:
 
 ### Description
 
-
 ### Stickers Covered
-
