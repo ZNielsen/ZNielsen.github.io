@@ -10,7 +10,16 @@ come out][1]).
 This console generation launched when I was a freshman in college, and so I had
 no disposable income to stay up to date on games.  I switched over to PC indie
 games because they were cheaper and didn't require a beefy graphics card (which
-I also could not afford).
+I also could not afford).  Now that I can afford to spend some money, I was able
+to capitalize on some Black Friday deals and snag a PS4 Pro bundle.
+
+Wow.
+
+I am very impressed with how smooth the whole experience has been.  Yes, there's
+the immediate software updates, and yes, it's annoying to have to copy the game
+off a disk before playing it, but compared to the headache that is managing a
+gaming PC, the PS4 is like butter!  Instant power on, no controller headaches,
+
 
 
 [1]: https://en.wikipedia.org/wiki/PlayStation#PlayStation_5
