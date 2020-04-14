@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer currently working for [Tektronix](https://www.tek.com/).
+I'm a software engineer working in Portland Oregon.
 
 I have [a github](https://github.com/ZNielsen) where I do some things that are of interest to me.
 
@@ -17,12 +17,12 @@ I have [a github](https://github.com/ZNielsen) where I do some things that are o
 I love non-tech things too!
 - Role playing games
 - Board games
-	- Some friends from work really pulled me into the table top boardgame world quickly.  Really enjoying all the new games I'm learning to play.
+	- Some friends from work really pulled me into the table top board game world quickly.  Really enjoying all the new games I'm learning to play.
 - Hiking
 - City wandering
   - Portland (home city)
   - Seattle
-  - San Fransico
+  - San Francisco
   - New York
   - Amsterdam
   - Shanghai
