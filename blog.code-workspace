@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        "editor.fontFamily": "Menlo",
+        "editor.fontSize": 13,
+        "workbench.colorTheme": "Solarized Dark Grey"
+    }
+}
