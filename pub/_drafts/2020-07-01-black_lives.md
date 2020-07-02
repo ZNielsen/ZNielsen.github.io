@@ -35,9 +35,6 @@ The scales in the United States are tilted in opposition to black Americans, and
 ### They Will Know By Your Deeds
 You can claim to love people all you want, but James wrote a whole letter saying it means nothing unless you act on it.
 
-## "They Would Kill Him Again"
-A realization I had while thinking about how American Christians see
-
 ## Why Are Christians Not Christ-like
 Without getting too far into it, I think this is in very large part a result of the Christian Church tieing itself to "The State". It started with Constantine and the HRE in the 4th century and just continues to be a problem, the modern version being white American Christians tieing themselves to the Republican party in the 1980s.
 
