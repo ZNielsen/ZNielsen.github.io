@@ -29,7 +29,7 @@ The context is when you are being robbed. A far cry from "when the looting start
 ### I Never Knew You
 _Matthew 7:23_
 
-"Look at all the things I did in your name!" Jesus specifically says there are be people who think they are working for him, but are actually doing evil. The cutting part is that they _think they are doing the work of Jesus_.
+"Look at all the things I did in your name!" Jesus specifically says there are be people who think they are working for him, but are actually doing evil. The cutting part is _they think they are doing the work of Jesus_.
 
 ### Yahweh Detests an Unjust Scale
 _Proverbs 11:1_
