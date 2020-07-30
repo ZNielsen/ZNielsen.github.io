@@ -3,7 +3,7 @@ title: Black Lives Matter
 layout: post
 tags:
 ---
-# Black Lives Matter and the White American Church
+## Black Lives Matter and the White American Church
 What follows is not as structured as I would like, but I needed to get this out. It’s been stewing for a while.
 
 My heart continues to be heavy regarding the treatment of black people in the country I live. The United States was designed from the beginning to enable and defend systematic cruelty towards a subset of human beings for the sole reason of making money. Wrestling with how I directly and indirectly benefit from that legacy (I’m white) has been uncomfortable for me. I don’t have a sweeping answer for what justice looks like, but I feel very confident saying all the “radical” things people are asking for in response to centuries of abuse does not even scratch the surface of justice; it barely even gets us to water-under-the-bridge-let’s-all-be-equals status.
