@@ -14,6 +14,7 @@ I will make no arguments about the Christian Bible in a larger historical contex
 
 ### Love Your Neighbor
 _Matthew 22:39_
+
 Literally the #2 thing to Jesus, only barely beaten out by "Love God". When your neighbor and countryman is telling you that the system we participate in is harming them, the loving thing to do is listen. The loving thing to do is apologize and make amends. The loving thing to do is to fix it.
 
 When Jesus came across a perversion of his father's house, he performed an act of civil unrest. White American Christians need to stop saying "it's terrible that all these black people are being killed, but the destruction of property needs to stop". How is that loving? Implicit in that statement is a value judgement: property is more important than black lives. That sounds like a "slavery isn't that bad" mindset to me.
@@ -22,17 +23,23 @@ I don't think Jesus really gives a shit about your property. I know he gives a s
 
 ### Give Them Your Cloak As Well
 _Luke 6:29_
+
 The context is when you are being robbed. A far cry from "when the looting starts, the shooting starts". If someone is desperate enough to steal from you, Jesus says you should go out of your way to help them, giving them even more money.
 
 ### I Never Knew You
 _Matthew 7:23_
+
 "Look at all the things I did in your name!" Jesus specifically says there are be people who think they are working for him, but are actually doing evil. The cutting part is that they _think they are doing the work of Jesus_.
 
 ### Yahweh Detests an Unjust Scale
+_Proverbs 11:1_
+
 I don't know how you read the Christian Bible and not see that justice is a big fucking deal to Yahweh[^3]. Justice is hard. It's harsh. It's painful, unyielding, and at times, brutal. Modern white American Christians love to focus on the grace side of Yahweh. It is not wrong to have a deep appreciation of grace. Grace is comforting and much easier to give a sermon about. But white American Christians have totally taken the teeth out of justice. Perhaps because on some level they know that white American Christians would be the punishees in an ungraceful application of justice. That should be a red flag, but it goes ignored.
 The scales in the United States are tilted in opposition to black Americans, and it disgusts Yahweh.
 
 ### They Will Know By Your Deeds
+_James 2:14-26_
+
 You can claim to love people all you want, but James wrote a whole letter saying it means nothing unless you act on it.
 
 ## Why Are Christians Not Christ-like
