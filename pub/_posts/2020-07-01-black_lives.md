@@ -53,10 +53,12 @@ This is such a big problem, it’s hard to know where to start. My prime strateg
 As for practical personal responses, of course helping fund organizations that are focusing on justice and equality is non-negotiable. I cannot claim to care about something and then refuse to provide the only resource that gets anything done in a country as greedy as the United States (yes, that resource is money). But neither can we stop there, because many are affluent enough to toss some money away as a “make my conscience less guilty” tax, then continue to live lives unaffected by the radical injustice they just donated to stop.
 When it comes to real action, I don’t feel capable of any great feats, but I will commit to do what I can do. I have committed to not back down from these tough conversations when they come up; to be the voice in a group of white Americans who can try to provide any amount of perspective on the matter (woefully incomplete as it is, having not been forced to experience injustices first hand). This doesn’t sound like a big sacrifice, because it’s not. This is the least I can do while I keep an eye out for other actions I can take. All it requires is me making myself uncomfortable, learning, listening, and not backing away from a difficult conversation for the sake of social cohesion.
 Much of the time I am talking with older, affluent, white Americans who have not been touched by any part of this. The dominating feeling I get from them is confusion. Some questions I have heard and stepped in to talk about:
+
 - “Why are these protests happening?”
 - “Why are they happening now, why not before?”
 - “It’s not really that bad, is it?”
 - “I never thought of \_\_\_\_ as racist, is it racist now?”
+
 Ironically, I've been leaning heavily on my childhood apologetics training to handle these conversations. Step 1 of apologetics is study your shit so you know what you are talking about, so that's what I'm continuing to do.
 
 _edit_: This has been sitting in my drafts for a while. Since I wrote it up, I have attended the protests in Portland for Black Lives Matter. I'm glad I could add a body and a voice to the cry for justice.
