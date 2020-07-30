@@ -47,7 +47,7 @@ Without getting too far into it, I think this is in very large part a result of 
 
 Christians stopped looking to Christ for how they should treat others and started looking to Reagan/O'Reilly/Bush/Hannity/Trump/Carlson.
 
-## ~The~ My Response
+## ~~The~~ My Response
 This is such a big problem, it’s hard to know where to start. My prime strategy so far has been to seek out and listen to black leadership on the subject. One of the themes that keeps coming out is "this is a marathon, not a sprint". White Americans have the luxury of taking off this problem when it becomes too heavy to bear. Black Americans do not have that luxury. It's up to us not to set this problem down when it becomes hard and we have been working at it for a long time.
 
 As for practical personal responses, of course helping fund organizations that are focusing on justice and equality is non-negotiable. I cannot claim to care about something and then refuse to provide the only resource that gets anything done in a country as greedy as the United States (yes, that resource is money). But neither can we stop there, because many are affluent enough to toss some money away as a “make my conscience less guilty” tax, then continue to live lives unaffected by the radical injustice they just donated to stop.
