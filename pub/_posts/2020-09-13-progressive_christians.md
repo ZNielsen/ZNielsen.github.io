@@ -4,7 +4,7 @@ layout: post
 tags:
 ---
 
-I came across [David Schell's][blog] blog via [John Gruber][df_link]. I enjoyed reading about his experiance interacting with coservative Christian culture. I am thankful to live in a city where I don't often come up againt this kind of pushback.
+I came across [David Schell's][blog] blog via [John Gruber][df_link]. I enjoyed reading about Schell's experiance interacting with coservative Christian culture. I am thankful to live in a city where I don't often come up againt this kind of pushback.
 
 I really enjoy his footnote about not nessicarily standing by everything he has ever written. I think it's important to change your opinions as you learn.
 
