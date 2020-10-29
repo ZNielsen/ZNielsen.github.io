@@ -9,7 +9,7 @@ email: contact@zachn.me
 
 # `>-` means to ignore newlines until next key
 description: >-
-  A blog for quick thoughts.
+  A blog for quick thoughts i.e. my one-directional twitter.
 
 # the subpath of your site, e.g. /blog
 baseurl: ""
