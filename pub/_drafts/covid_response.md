@@ -1,5 +1,5 @@
 ---
-title: Covid arguments
+title: COVID Arguments
 layout: post
 tags:
 ---
