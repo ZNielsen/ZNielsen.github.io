@@ -24,6 +24,8 @@ collections:
     output: true
   rpg:
     output: true
+  doors:
+    output: true
 
 # Build settings
 theme: minima

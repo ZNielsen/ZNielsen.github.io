@@ -4,11 +4,10 @@ title: Blog
 permalink: /blog/
 ---
 
-This is my collection of quick posts.
 
-### [Sticker Blog](/blog/stickers/)
+### [Travel Doors](/blog/doors/)
 
-A catalog of the stickers I have come across.
+Cool doors
 
 ### [RPG Log Blog](/blog/rpgs/)
 
