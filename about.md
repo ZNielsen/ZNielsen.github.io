@@ -8,10 +8,10 @@ I'm a software engineer working in Portland Oregon.
 
 I have [a github](https://github.com/ZNielsen) where I do some things that are of interest to me.
 
-### Technologies I love
-- Unix
-- vim
-- ect..
+### Tools I love
+- vim - currently using neovim, which feels like the future of vim.
+- tmux - multi tab and saves the session if your network craps out. What's not to like?
+- [Obsidian](https://obsidian.md) - A self-wiki. Notes that are just text files on your computer.
 
 ### Not a robot...
 I love non-tech things too!
