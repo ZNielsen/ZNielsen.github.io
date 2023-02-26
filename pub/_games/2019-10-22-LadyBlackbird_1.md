@@ -1,9 +1,9 @@
 ---
-title: Lady Blackbird 
-layout: rpg
+title: Lady Blackbird
+layout: game
 name: Lady Blackbird Session 1
 playdate: 2019.10.22
-tags: [Lady Blackbird, rpg]
+tags: [Lady Blackbird, rpg, game]
 ---
 
 ## Lady Blackbird Session 1

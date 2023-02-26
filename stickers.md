@@ -12,3 +12,5 @@ For the longest time I did not want to sully anything I owned by slapping sticke
 {% for sticker in items %}
 - [Sticker: {{ sticker.title }}]({{ sticker.url }})
 {% endfor %}
+
+subscribe to only stickers [via RSS](https://zachn.me/feed/stickers.xml)

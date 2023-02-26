@@ -5,10 +5,6 @@ permalink: /blog/
 ---
 
 
-### [Travel Doors](/blog/doors/)
+**[Travel Doors](/blog/doors/)** - Cool doors
 
-Cool doors
-
-### [RPG Log Blog](/blog/rpgs/)
-
-I try to write up notes about every session I play.
+**[Game Log](/blog/games/)** - I try to write up notes about every session I play.

@@ -9,7 +9,7 @@ email: contact@zachn.me
 
 # `>-` means to ignore newlines until next key
 description: >-
-  A blog for quick thoughts i.e. my one-directional twitter.
+  A blog for quick thoughts.
 
 # the subpath of your site, e.g. /blog
 baseurl: ""
@@ -22,7 +22,7 @@ collections_dir: pub
 collections:
   stickers:
     output: true
-  rpg:
+  games:
     output: true
   doors:
     output: true
@@ -31,6 +31,11 @@ collections:
 theme: minima
 plugins:
   - jekyll-feed
+feed:
+  collections:
+    - doors
+    - games
+    - stickers
 
 # Exclude from processing.
 # The following items will not be processed, by default.
