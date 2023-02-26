@@ -10,3 +10,5 @@ Some good doors.
 {% for door in items  %}
 - [{{ door.title }} - {{ door.date | date: "%b %Y" }}]({{ door.url }})
 {% endfor %}
+
+subscribe to only doors [via RSS](https://zachn.me/feed/doors.xml)
