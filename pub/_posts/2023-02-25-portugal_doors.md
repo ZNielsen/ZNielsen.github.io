@@ -4,8 +4,8 @@ layout: post
 tags: [travel]
 ---
 
-[Albufeira Doors](posts/2023.02.25-portugal_albufeira.html)
+[Albufeira Doors](https://www.zachn.me/doors/2023-02-25-portugal_albufeira/)
 
-[Lisbon Doors](posts/2023.02.26-portugal_lisbon.html)
+[Lisbon Doors](https://www.zachn.me/doors/2023-02-25-portugal_lisbon/)
 
-[Sintra Doors](posts/2023.02.27-portugal_sintra.html)
+[Sintra Doors](https://www.zachn.me/doors/2023-02-25-portugal_sintra/)
