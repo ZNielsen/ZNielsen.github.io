@@ -267,6 +267,7 @@ DEPENDENCIES
   github-pages
   http_parser.rb
   jekyll-feed
+  jekyll-redirect-from
   minima (~> 2.5)
   sassc
   tzinfo (~> 1.2)
