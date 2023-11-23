@@ -38,7 +38,7 @@ Recipe first, notes after
 - Add heavy cream to get up to the creaminess you like
 
 ## Notes
-I peel the center of the potatoes and leave the skins on the endcaps. It's faster and gives you a touch of skins in the final mash.
+I peel the center of the potatoes and leave the skins on the endcaps. It takes less time and gives you a touch of skins in the final mash.
 
 If you want a less overpoweringly garlic mashed potato, remove and discard the garlic cloves from the butter after the 15 min simmer is done. But honestly, why are you even here then?
 
