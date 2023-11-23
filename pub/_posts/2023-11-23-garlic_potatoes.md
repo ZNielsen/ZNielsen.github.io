@@ -42,7 +42,7 @@ I peel the center of the potatoes and leave the skins on the endcaps. It's faste
 
 If you want a less overpoweringly garlic mashed potato, remove and discard the garlic cloves from the butter after the 15 min simmer is done. But honestly, why are you even here then?
 
-[Here's the hand masher][masher] I prefer, the rounded sides make it easier to use on the round side of the dutch oven.
+The hand masher I have is the [OXO Good Grips Nylon Potato Masher][masher], the rounded sides make it easier to use on the round side of the dutch oven.
 
 If you want to make them look fancy, top with some paprika and chopped parsley. I usually go without.
 
