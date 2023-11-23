@@ -8,7 +8,7 @@ Recipe first, notes after
 
 ### Ingredients
 - Gold Potatoes, 5 lbs, peel and cut into big chunks (usually quartered)
-- Butter, 1.5 sticks
+- Butter, 1.75 sticks
 - Garlic 1 head
 - Heavy Cream, 1 Cup warmed, plus more for consistency
 - Sour Cream, 1 Cup
