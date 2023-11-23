@@ -1,5 +1,5 @@
 ---
-title: Potatoes So Garlicy It's Almost Obscene
+title: Mashed Potatoes So Garlicy It's Almost Obscene
 layout: post
 tags: food
 ---
