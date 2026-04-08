@@ -1,7 +1,7 @@
 ---
 title: "C++ Named Initialization: My Bugbear"
 layout: post
-tags: [c++]
+tags: [programming, c++]
 ---
 
 I often lament the lack of named initialization in C++.  It changes how
